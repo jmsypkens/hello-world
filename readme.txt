@@ -1,4 +1,1 @@
-This is a test. 
-Here's another test line. 
-
-Another line. 
+Hello World. This is my first thing ever to GitHub. 
